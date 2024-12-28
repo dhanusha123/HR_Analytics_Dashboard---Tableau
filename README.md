@@ -17,3 +17,5 @@ Overview Metrics:
  - Employee Records: Interactive data for granular insights with advanced filtering capabilities.
 
 
+[Link to the Tableau Public Dashboard](https://public.tableau.com/views/HRAnalytics_17352738497350/HRDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
