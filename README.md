@@ -1,5 +1,7 @@
 # HR_Analytics_Dashboard - Tableau
 
+![App Interface](HR_Dashboard_Image.png)
+
 Overview of the HR Dashboard Project
 
 This project focuses on delivering a professional-grade HR dashboard that HR managers can use for:
