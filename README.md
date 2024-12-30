@@ -19,3 +19,4 @@ Overview Metrics:
 
 [Link to the Tableau Public Dashboard](https://public.tableau.com/views/HRAnalytics_17352738497350/HRDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
+[Link to the Medium Article](https://medium.com/@dhanusha.viraj/unlocking-hr-insights-with-tableau-a-step-by-step-journey-dfa98827c10f)
